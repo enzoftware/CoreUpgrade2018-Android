@@ -7,7 +7,7 @@
 
 ---
 
-## Conocimientos previos
+## Conocimientos previos & Requisitos
 - POO
 - Java o Kotlin
 - Android Studio
