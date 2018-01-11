@@ -18,6 +18,8 @@ Se considera que los postulantes tienen instalado el IDE Android Studio en sus u
 
 En este entrenamiento se evitaran los ejemplos con código fuente ya que el uso del lenguaje (Java, Kotlin ,etc) estan a libertad del postulante.
 
-![Welcome](hhttp://thedroidlawyer.com/wp-content/uploads/2014/12/happy.gif)
+<div align="center">
 
+![Welcome](http://thedroidlawyer.com/wp-content/uploads/2014/12/happy.gif)
 
+</div>
